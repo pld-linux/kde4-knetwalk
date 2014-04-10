@@ -5,12 +5,12 @@
 Summary:	KDE knetwalk
 Summary(pl.UTF-8):	knetwalk dla KDE
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	3b2e40ade633372ade97cd1d29c8a7b6
+# Source0-md5:	10c8fc90f5186769ac5ee73765f57622
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
